@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64ab5247-4731-40cc-9e37-ba2ae14a8c4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/domain/usecase/src/test/java/ec/com/clean/architecture/example/usecase/getall/GetAllUseCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/usecase/src/test/java/ec/com/clean/architecture/example/usecase/getbyid/GetByIdUseCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/app-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/applications/app-service/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/app-service/src/main/java/ec/com/clean/architecture/example/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/app-service/src/main/java/ec/com/clean/architecture/example/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/app-service/src/main/java/ec/com/clean/architecture/example/config/UseCasesConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/app-service/src/main/java/ec/com/clean/architecture/example/config/UseCasesConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/app-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applications/app-service/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/usecase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/domain/usecase/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/driven-adapters/mongo-repository/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/driven-adapters/mongo-repository/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/entry-points/reactive-web/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/entry-points/reactive-web/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/entry-points/reactive-web/src/main/java/ec/com/clean/architecture/example/api/RouterRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/entry-points/reactive-web/src/main/java/ec/com/clean/architecture/example/api/RouterRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
