@@ -13,7 +13,7 @@ spring:
     include: null
   data:
     mongodb:
-      uri: "mongodb://localhost:27017/test"
+      uri: "mongodb+srv://mdyagual:mdyagual@clustersofkau.hcyyx.mongodb.net/books-sofka-api?retryWrites=true&w=majority"
 management:
   endpoints:
     web:
